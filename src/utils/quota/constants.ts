@@ -74,7 +74,7 @@ export const ANTIGRAVITY_QUOTA_URLS = [
 export const ANTIGRAVITY_CODE_ASSIST_URL =
   'https://daily-cloudcode-pa.googleapis.com/v1internal:loadCodeAssist';
 
-export const ANTIGRAVITY_CLI_VERSION = '1.0.13';
+export const ANTIGRAVITY_CLI_VERSION = '2.0.0';
 export const ANTIGRAVITY_CLIENT_NAME = 'aidev_client';
 export const ANTIGRAVITY_CLIENT_PLATFORM = {
   osType: 'darwin',
